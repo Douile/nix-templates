@@ -5,7 +5,7 @@
     templates = {
 
       androidSDK = {
-        path = ./android-sdk/;
+        path = ./android-sdk;
         description = "Dev shell including the android SDK";
       };
 
